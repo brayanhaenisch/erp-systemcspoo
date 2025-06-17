@@ -1,0 +1,14 @@
+D:\Curso\ProjetoAulas\bin\Debug\net9.0\ProjetoAulas.exe
+D:\Curso\ProjetoAulas\bin\Debug\net9.0\ProjetoAulas.deps.json
+D:\Curso\ProjetoAulas\bin\Debug\net9.0\ProjetoAulas.runtimeconfig.json
+D:\Curso\ProjetoAulas\bin\Debug\net9.0\ProjetoAulas.dll
+D:\Curso\ProjetoAulas\bin\Debug\net9.0\ProjetoAulas.pdb
+D:\Curso\ProjetoAulas\obj\Debug\net9.0\ProjetoAulas.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso\ProjetoAulas\obj\Debug\net9.0\ProjetoAulas.AssemblyInfoInputs.cache
+D:\Curso\ProjetoAulas\obj\Debug\net9.0\ProjetoAulas.AssemblyInfo.cs
+D:\Curso\ProjetoAulas\obj\Debug\net9.0\ProjetoAulas.csproj.CoreCompileInputs.cache
+D:\Curso\ProjetoAulas\obj\Debug\net9.0\ProjetoAulas.dll
+D:\Curso\ProjetoAulas\obj\Debug\net9.0\refint\ProjetoAulas.dll
+D:\Curso\ProjetoAulas\obj\Debug\net9.0\ProjetoAulas.pdb
+D:\Curso\ProjetoAulas\obj\Debug\net9.0\ProjetoAulas.genruntimeconfig.cache
+D:\Curso\ProjetoAulas\obj\Debug\net9.0\ref\ProjetoAulas.dll
