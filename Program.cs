@@ -8,7 +8,7 @@ public class Aplicativo
 
     public Aplicativo()
     {
-        _listas = new Listas(); // Instância única de listas
+        _listas = new Listas(); 
         _Menu = new Menu(_listas);
     }
 
@@ -108,7 +108,7 @@ public class MenuProduto
         else if (escolha == "2")
         {
             _Produto.VisualizarProdutos();
-            MenuProd(); // volta após visualizar
+            MenuProd(); 
         }
         else
         {
@@ -162,7 +162,7 @@ public class Produto
 
         Console.WriteLine("\nProduto cadastrado com sucesso!\n");
 
-        _Menu.MenuModulo(); // Volta para o menu principal
+        _Menu.MenuModulo(); 
     }
 
     public void VisualizarProdutos()
